@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify office Address on home page</description>
+   <name>Office Address on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98846b0b-0762-4417-a7a6-086b47468c7e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify copyright text on home page</description>
+   <name>Copyright text on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aeeab3ae-5146-4692-95b5-7a1a993362e1</testCaseGuid>
+</TestCaseEntity>

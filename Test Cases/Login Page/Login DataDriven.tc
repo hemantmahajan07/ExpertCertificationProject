@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abd75dc6-5eee-491d-ac3d-b7bfee07bb8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4833a140-1ceb-4f24-829e-9020169b51ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4833a140-1ceb-4f24-829e-9020169b51ea</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

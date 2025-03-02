@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify social media icons on home page</description>
+   <name>Social media icons on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ec49f5b-3e64-4dd3-943c-725b837d53d2</testCaseGuid>
+</TestCaseEntity>

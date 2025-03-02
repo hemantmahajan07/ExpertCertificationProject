@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify labels on home page</description>
+   <name>Label on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e513bcd5-05aa-4829-a1c6-15fb74b2dd0b</testCaseGuid>
+</TestCaseEntity>

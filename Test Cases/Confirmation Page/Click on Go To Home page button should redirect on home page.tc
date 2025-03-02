@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify click on Go To Home page button and it should redirected to home page</description>
+   <name>Click on Go To Home page button should redirect on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f38746fe-ac7c-43c5-9c66-d23a796ca0a6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login label on login page</description>
+   <name>Login label on login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>091a1f0c-7e70-4ab8-8716-e4e51109b185</testCaseGuid>
+</TestCaseEntity>

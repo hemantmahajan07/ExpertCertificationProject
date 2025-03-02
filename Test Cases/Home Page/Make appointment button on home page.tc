@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify make appointment button</description>
+   <name>Make appointment button on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49e38ee7-daec-4d5c-a65a-945a42c3cc9f</testCaseGuid>
+</TestCaseEntity>

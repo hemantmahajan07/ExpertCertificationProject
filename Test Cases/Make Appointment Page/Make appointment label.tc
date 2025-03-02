@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Make appointment label</description>
+   <name>Make appointment label</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c255a888-0669-4653-909d-4f3fb18a64b9</testCaseGuid>
+</TestCaseEntity>

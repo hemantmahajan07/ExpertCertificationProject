@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify healthcare program and radio box</description>
+   <name>Healthcare program and radio box</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b562eda-d72d-48a2-bf20-ecd29c3268a9</testCaseGuid>
+</TestCaseEntity>

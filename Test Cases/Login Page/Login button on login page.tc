@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login button on login page</description>
+   <name>Login button on login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11b3690f-0ce3-45c3-96d3-199472cf6191</testCaseGuid>
+</TestCaseEntity>

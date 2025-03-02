@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Book appointment button</description>
+   <name>Book appointment button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a5b2cf8-6641-49f2-a5f3-90d7a6e5aa17</testCaseGuid>
+</TestCaseEntity>

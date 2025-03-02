@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify facility center on confirmation page</description>
+   <name>Facility Center label and value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd2bd169-a078-4133-a5b4-fe6921bfbde1</testCaseGuid>
+</TestCaseEntity>

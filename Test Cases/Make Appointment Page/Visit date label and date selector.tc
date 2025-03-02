@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify visit date label and date selector</description>
+   <name>Visit date label and date selector</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1203c352-1859-4450-8cea-6ea020640df6</testCaseGuid>
+</TestCaseEntity>

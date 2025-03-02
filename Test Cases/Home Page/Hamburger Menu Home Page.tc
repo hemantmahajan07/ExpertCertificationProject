@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify hamburger menu on home page</description>
+   <name>Hamburger Menu Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>463dfa62-c258-4082-a90e-425d8b3db5c7</testCaseGuid>
+</TestCaseEntity>

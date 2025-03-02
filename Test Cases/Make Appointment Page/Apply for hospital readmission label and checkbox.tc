@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify apply for hospital readmission label and checkbox</description>
+   <name>Apply for hospital readmission label and checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b46cb312-bd4f-4285-b5e6-ab8c431fa55d</testCaseGuid>
+</TestCaseEntity>

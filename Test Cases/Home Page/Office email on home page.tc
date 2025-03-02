@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify office email on home page</description>
+   <name>Office email on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb5d440b-0916-44d2-b9ab-d4b2378fd8b7</testCaseGuid>
+</TestCaseEntity>

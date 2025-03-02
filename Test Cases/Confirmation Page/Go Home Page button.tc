@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Go Home page button</description>
+   <name>Go Home Page button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27e4e344-a7ab-4083-9553-2aaee3e7a780</testCaseGuid>
+</TestCaseEntity>

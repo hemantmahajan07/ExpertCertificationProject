@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify office phone number on home page</description>
+   <name>Office phone number on home page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f22ec6c0-5b9a-4ccb-8ad4-93a9edce9cef</testCaseGuid>
+</TestCaseEntity>

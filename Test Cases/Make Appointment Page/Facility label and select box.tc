@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify facility label and select box</description>
+   <name>Facility label and select box</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5287e2c-c9d1-4cef-b35f-90e83330cf01</testCaseGuid>
+</TestCaseEntity>

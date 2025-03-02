@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login link in hamburger menu</description>
+   <name>Login link in hamburger menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2aa776ee-61ee-485f-b7e1-93c1c75cbc8e</testCaseGuid>
+</TestCaseEntity>

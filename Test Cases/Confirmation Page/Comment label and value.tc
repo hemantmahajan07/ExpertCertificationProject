@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify comment label and value</description>
+   <name>Comment label and value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b6982fd-2b71-44fc-b86e-e9a781416e2e</testCaseGuid>
+</TestCaseEntity>

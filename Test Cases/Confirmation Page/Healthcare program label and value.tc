@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify healthcare program label and value on confirmation page</description>
+   <name>Healthcare program label and value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b91558d1-c1df-4129-a21e-a7cfeec2022d</testCaseGuid>
+</TestCaseEntity>

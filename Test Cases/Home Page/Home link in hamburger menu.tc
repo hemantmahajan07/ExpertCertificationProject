@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify home and login link in hamburger menu</description>
+   <name>Home link in hamburger menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5040a855-b195-447f-89fc-f280668b1236</testCaseGuid>
+</TestCaseEntity>
