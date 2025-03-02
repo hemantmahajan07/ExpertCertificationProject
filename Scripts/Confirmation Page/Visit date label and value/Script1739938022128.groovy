@@ -25,10 +25,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Confirmation Page/P
 WebUI.verifyElementText(findTestObject('Object Repository/Confirmation Page/Page_CURA Healthcare Service/label_Visit Date'), 
     'Visit Date')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Confirmation Page/Page_CURA Healthcare Service/p_27022025'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Confirmation Page/Page_CURA Healthcare Service/p_27032025'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Confirmation Page/Page_CURA Healthcare Service/p_27022025'), '27/02/2025')
+WebUI.verifyElementText(findTestObject('Object Repository/Confirmation Page/Page_CURA Healthcare Service/p_27032025'), '27/03/2025')
 
 WebUI.closeBrowser()
 

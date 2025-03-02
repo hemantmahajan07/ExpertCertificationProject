@@ -15,7 +15,7 @@
       <guid>cec64007-d9e1-4ec1-aafe-41da82b6b4f9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Confirmation Page/Apply for hospital readmission label and value</testCaseId>
+      <testCaseId>Test Cases/Confirmation Page/Book Appointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
